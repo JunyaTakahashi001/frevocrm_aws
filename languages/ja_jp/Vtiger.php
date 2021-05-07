@@ -731,7 +731,7 @@ $languageStrings = array(
 	'Potential Name' => '案件名',
 	'Priority'=>'優先度',
 
-	'Product Name' => '製品名',
+	'Product Name' => 'エンジニア名',
 	'Rating' => '格付け',
 
 	'Related To'=>'関連',
