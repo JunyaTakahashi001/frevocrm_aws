@@ -1,0 +1,5 @@
+#ベーシック認証設定
+AuthType Basic
+AuthName "Please enter your ID and password"
+AuthUserFile "/opt/bitnami/apache2/.htpasswd"
+Require valid-user

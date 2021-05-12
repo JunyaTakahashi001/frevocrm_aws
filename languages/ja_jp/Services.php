@@ -9,17 +9,17 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Services' => 'サービス',
-	'SINGLE_Services' => 'サービス',
-	'LBL_ADD_RECORD' => 'サービスの追加',
-	'LBL_RECORDS_LIST' => 'サービスリスト',
+	'Services' => 'エンジニア',
+	'SINGLE_Services' => 'エンジニア',
+	'LBL_ADD_RECORD' => 'エンジニアの追加',
+	'LBL_RECORDS_LIST' => 'エンジニアリスト',
 
 	// Blocks
 	'LBL_SERVICE_INFORMATION' => '基本情報',
 	
 	'LBL_MORE_CURRENCIES' => '他の通貨', 
-	'LBL_PRICES' => 'サービス価格',
-	'LBL_PRICE' => '価格',
+	'LBL_PRICES' => 'エンジニア単価',
+	'LBL_PRICE' => '単価（月）',
 	'LBL_RESET_PRICE' => '価格のリセット',
 	'LBL_RESET' => 'リセット',
 	
@@ -27,14 +27,14 @@ $languageStrings = array(
 	'LBL_ADD_TO_PRICEBOOKS' => '価格表に追加',
 
 	//Field Labels
-	'Service Name'=>'サービス名',
+	'Service Name'=>'名前',
 	'Service Active'=>'有効',
-	'Service Category'=>'分類',
-	'Service No'=>'サービス番号',
+	'Service Category'=>'区分',
+	'Service No'=>'管理番号',
 	'Owner'=>'担当',
 	'No of Units'=>'ユニット数',
 	'Commission Rate'=>'手数料率 (%)',
-	'Price'=>'価格',
+	'Price'=>'単価',
 	'Usage Unit'=>'使用する単位',
 	'Tax Class'=>'税区分',
 	'Website'=>'Webサイト',

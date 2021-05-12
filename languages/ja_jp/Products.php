@@ -9,10 +9,10 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Products' => 'エンジニア',
-	'SINGLE_Products' => 'エンジニア',
-	'LBL_ADD_RECORD' => 'エンジニアの追加',
-	'LBL_RECORDS_LIST' => 'エンジニアリスト',
+	'Products' => '製品',
+	'SINGLE_Products' => '製品',
+	'LBL_ADD_RECORD' => '製品の追加',
+	'LBL_RECORDS_LIST' => '製品リスト',
 
 	// Blocks
 	'LBL_PRODUCT_INFORMATION' => '基本情報',
@@ -20,16 +20,16 @@ $languageStrings = array(
 	'LBL_STOCK_INFORMATION' => '在庫情報',
 	
 	'LBL_MORE_CURRENCIES' => '他の通貨', 
-	'LBL_PRICES' => 'エンジニア価格',
+	'LBL_PRICES' => '製品価格',
 	'LBL_PRICE' => '価格',
 	'LBL_RESET_PRICE' => '価格のリセット',
 	'LBL_RESET' => 'リセット',
 	'LBL_ADD_TO_PRICEBOOKS' => '価格表に追加',
 
 	//Field Labels
-	'Product No' => 'エンジニア番号',
+	'Product No' => '製品番号',
 	'Part Number' => '型番',
-	'Product Active' => 'エンジニア有効',
+	'Product Active' => '製品有効',
 	'Manufacturer' => '製造業者',
 	'Product Category' => '製品分類',
 	'Website' => 'Webサイト',
@@ -43,10 +43,10 @@ $languageStrings = array(
 	'Vendor PartNo'=>'納入業者型番',
 	'Serial No'=>'シリアル番号',
 	'Qty In Stock'=>'在庫数',
-	'Product Sheet'=>'エンジニアデータシート',
+	'Product Sheet'=>'製品データシート',
 	'Qty In Demand'=>'需要数',
 	'GL Account'=>'GL勘定',
-	'Product Image'=>'エンジニア画像',
+	'Product Image'=>'製品画像',
 	'Unit Price'=>'単価',
 	'Commission Rate'=>'手数料率 (%)',
 	'Qty/Unit'=>'数量/ユニット',
@@ -88,11 +88,11 @@ $languageStrings = array(
 	
 	'LBL_ADD_TO_PRICEBOOKS' => '価格表の追加',
 	'LBL_CONVERSION_RATE' => 'コンバージョンレート',
-    'LBL_PRODUCTSMOD_DISABLED' => 'エンジニアを表示するために製品モジュールを有効にしてください',
+    'LBL_PRODUCTSMOD_DISABLED' => '製品を表示するために製品モジュールを有効にしてください',
 	'LBL_SHOW_BUNDLE_IN_INVENTORY' => 'バンドルアイテムを請求/見積/受注/発注に表示する',
 	'LBL_BUNDLE_TOTAL_COST' => 'バンドルの合計金額',
 	'LBL_UPDATE_BUNDLE_PRICE' => 'バンドル価格を更新',
-	'LBL_PRODUCT_NAME' => 'エンジニア名',
+	'LBL_PRODUCT_NAME' => '製品名',
 	'LBL_PRICE_QUANTITY' => '価格 x 数量',
 );
 
